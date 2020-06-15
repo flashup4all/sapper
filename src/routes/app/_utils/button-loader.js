@@ -1,0 +1,1 @@
+const SRC = '../../assets/img/spinner.gif';
